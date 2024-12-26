@@ -1,5 +1,5 @@
 <?php ob_start(); ?>
-<h1>Tasks List</h1>
+<h2>Tasks List</h2>
 
 
 <form method="POST" action="/store">
